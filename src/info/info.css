@@ -1,0 +1,257 @@
+/* helping-people */
+.helping-people{
+    padding-bottom: 40px;
+    margin-left: -50px;
+    margin-top: 80px;
+    width: 1400px;
+    background: rgb(55, 55, 55);
+}
+/* block1 */
+.fast-free{
+    padding-left: 100px;
+    padding-top: 40px;
+    align-items: center;
+}
+.fast-free-block-img{
+    border-radius: 50%;
+    padding-top: 17px;
+    padding-left: 10px;
+    height: 60px;
+    width: 60px;
+    background: rgb(70, 68, 68);
+}
+.fast-free-block-img:hover{
+    background: rgb(63, 61, 61) ;
+}
+.fast-free-title{
+    font-weight: 400;
+    color:rgb(91, 89, 89);
+    margin-top: -50px;
+    margin-left: 70px;
+    font-size: 15px;
+}
+.fast-free-p{
+    margin-left: 70px;
+    font-size: 12px;
+    color:rgb(91, 89, 89);
+}
+/* block2 */
+.save-when{
+    margin-top: -50px;
+    margin-left: 370px;
+}
+.save-when-block-img{
+    border-radius: 50%;
+    padding-top: 16px;
+    padding-left: 13px;
+    height: 60px;
+    width: 60px;
+    background: rgb(70, 68, 68);
+}
+.save-when-block-img:hover{
+    background: rgb(63, 61, 61) ;
+}
+.save-when-title{    
+    font-weight: 400;
+    color:rgb(91, 89, 89);
+    margin-top: -50px;
+    margin-left: 70px;
+    font-size: 15px;}
+.save-when-p{
+    margin-left: 70px;
+    font-size: 12px;
+    color:rgb(91, 89, 89);
+}
+/* block3 */
+.money-back{
+    margin-top: -50px;
+    margin-left: 630px;
+}
+.money-back-block-img{
+    border-radius: 50%;
+    padding-top: 14px;
+    padding-left: 14px;
+    height: 60px;
+    width: 60px;
+    background: rgb(70, 68, 68);
+}
+.money-back-block-img:hover{
+    background: rgb(63, 61, 61) ;
+}
+.money-back-title{
+    font-weight: 400;
+    color:rgb(91, 89, 89);
+    margin-top: -50px;
+    margin-left: 70px;
+    font-size: 15px;
+}
+.money-back-p{
+    margin-left: 70px;
+    font-size: 12px;
+    color:rgb(91, 89, 89);
+}
+/* block4 */
+.support{    
+    margin-top: -50px;
+    margin-left: 920px;
+}
+.support-block-img{
+    border-radius: 50%;
+    padding-top: 15px;
+    padding-left: 14px;
+    height: 60px;
+    width: 60px;
+    background: rgb(70, 68, 68);
+}
+.support-block-img:hover{
+    background: rgb(63, 61, 61) ;
+}
+.support-title{
+    font-weight: 400;
+    color:rgb(91, 89, 89);
+    margin-top: -50px;
+    margin-left: 70px;
+    font-size: 15px;
+}
+.support-p{
+    margin-left: 70px;
+    font-size: 12px;
+    color:rgb(91, 89, 89);
+}
+/* media helping-people */
+@media (max-width:1265px){
+.helping-people{
+    max-width: 1265px;
+}
+/* block1 */
+.fast-free{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+/* block2 */
+.save-when{
+    margin-top: -50px;
+    margin-left: 330px;
+}
+/* block3 */
+.money-back{
+    margin-top: -50px;
+    margin-left: 590px;
+}
+/* block4 */
+.support{    
+    margin-top: -50px;
+    margin-left: 880px;
+}
+}
+@media (max-width:1200px){
+.helping-people{
+    display: none;
+}
+}
+@media (max-width:768px){
+.helping-people{
+    width: 806px;
+    display: block;
+}
+/* block1 */
+.fast-free{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+/* block2 */
+.save-when{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+/* block3 */
+.money-back{
+    margin-top: -123px;
+    margin-left:330px;
+}
+/* block4 */
+.support{    
+    margin-top: 20px;
+    margin-left: 330px;
+}
+}
+@media (max-width:480px){
+.helping-people{
+    width: 520px;
+    display: block;
+}
+/* block1 */
+.fast-free{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.fast-free-title{
+    margin-top: -55px;
+    font-size: 17px;
+}
+.fast-free-p{
+    font-size: 14px;
+}
+/* block2 */
+.save-when{
+    margin-top: 20px;
+    margin-left: 60px;
+} 
+.save-when-title{    
+    margin-top: -55px;
+    font-size: 17px;
+}
+.save-when-p{
+    font-size: 14px;
+}
+/* block3 */
+.money-back{
+    margin-top: 20px;
+    margin-left:60px;
+}
+.money-back-title{
+    margin-top: -55px;
+    font-size: 17px;
+}
+.money-back-p{
+    font-size: 14px;
+}
+/* block4 */
+.support{    
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.support-title{
+    margin-top: -55px;
+    font-size: 17px;
+}
+.support-p{
+    font-size: 14px;
+}
+}
+@media (max-width:320px){
+.helping-people{
+    width: 360px;
+    display: block;
+}
+/* block1 */
+.fast-free{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+/* block2 */
+.save-when{
+    margin-top: 20px;
+    margin-left: 50px;
+} 
+/* block3 */
+.money-back{
+    margin-top: 20px;
+    margin-left:50px;
+}
+/* block4 */
+.support{    
+    margin-top: 20px;
+    margin-left: 50px;
+}
+}

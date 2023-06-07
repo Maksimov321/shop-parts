@@ -1,0 +1,527 @@
+/* what-we-offes */
+.offes-img{
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.what-we-offes-content {
+    width: 560px;
+    height: 460px;
+    margin-left: 630px;
+    margin-top: -455px;
+    cursor: pointer;
+}
+.offes-h4{
+    font-size: 30px;
+    align-items: center;
+    margin-left: 170px;
+    cursor: pointer;
+}
+.offes-p{
+    cursor: pointer;
+    margin-left: 120px;
+    font-size: 14px;
+}
+/* block1 */
+.offes-img1{
+    margin-top: 40px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.offes-h4-1{
+    margin-left: 70px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.offes-p-1{
+    cursor: pointer;
+    margin-left: -280px;
+    text-align: center;
+    font-size: 11px;
+}
+/* block2 */
+.offes-img2{
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 380px;
+    cursor: pointer;
+}
+.offes-h4-2{
+    margin-top: -70px;
+    margin-left: 330px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.offes-p-2{
+    cursor: pointer;
+    margin-left: 230px;
+    text-align: center;
+    font-size: 11px;
+}
+/* block3 */
+.offes-img3{
+    margin-top: 40px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.offes-h4-3{
+    margin-left: 65px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.offes-p-3{
+    cursor: pointer;
+    margin-left: -275px;
+    text-align: center;
+    font-size: 11px;
+}
+/* block4 */
+.offes-img4{
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 380px;
+    cursor: pointer;
+}
+.offes-h4-4{
+    margin-top: -70px;
+    margin-left: 340px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.offes-p-4{
+    cursor: pointer;
+    margin-left: 240px;
+    text-align: center;
+    font-size: 11px;
+}
+/* media what-we-offes */
+@media (max-width:1265px){
+.offes-img{
+    width: 490px;
+}
+.what-we-offes-content{
+    width: 520px;
+    height: 460px;
+    margin-top: -420px;
+    margin-left: 550px;
+}
+.offes-p-1{
+    cursor: pointer;
+    margin-left: -240px;
+    text-align: center;
+    font-size: 11px;
+}
+.offes-p-2{
+    cursor: pointer;
+    margin-left: 270px;
+    text-align: center;
+    font-size: 11px;
+}
+.offes-p-3{
+    cursor: pointer;
+    margin-left: -245px;
+    text-align: center;
+    font-size: 11px;
+}
+.offes-p-4{
+    cursor: pointer;
+    margin-left: 270px;
+    text-align: center;
+    font-size: 11px;
+}
+}
+@media (max-width:1100px){
+.offes-img{
+    width: 450px;
+}
+.what-we-offes-content{
+    width: 520px;
+    height: 460px;
+    margin-top: -420px;
+    margin-left: 470px;
+}    
+}
+@media (max-width:1000px){
+.offes-img{
+    width: 400px;
+    height: 450px;
+}
+.what-we-offes-content{
+    width: 450px;
+    height: 460px;
+    margin-top: -420px;
+    margin-left: 420px;
+}
+.offes-h4{
+    font-size: 30px;
+    align-items: center;
+    margin-left: 105px;
+    cursor: pointer;
+}
+.offes-p{
+    cursor: pointer;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.offes-img1{
+    margin-top: 40px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.offes-h4-1{
+    margin-left: 50px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-1{
+    cursor: pointer;
+    margin-left: -220px;
+    text-align: center;
+    font-size: 10px;
+} 
+.offes-img2{
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 330px;
+    cursor: pointer;
+}
+.offes-h4-2{
+    margin-top: -70px;
+    margin-left: 280px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-2{
+    cursor: pointer;
+    margin-left: 230px;
+    text-align: center;
+    font-size: 10px;
+} 
+.offes-img3{
+    margin-top: 40px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.offes-h4-3{
+    margin-left: 50px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-3{
+    cursor: pointer;
+    margin-left: -220px;
+    text-align: center;
+    font-size: 10px;
+}  
+.offes-img4{
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 330px;
+    cursor: pointer;
+}
+.offes-h4-4{
+    margin-top: -70px;
+    margin-left: 290px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-4{
+    cursor: pointer;
+    margin-left: 240px;
+    text-align: center;
+    font-size: 10px;
+}
+}
+@media (max-width:768px){
+.offes-img{
+    margin-top: 100px;
+    margin-left: 70px;
+    width: 250px;
+    height: 300px;
+}
+.what-we-offes-content{
+    width:370px;
+    height: 460px;
+    margin-top: -370px;
+    margin-left: 320px;
+}
+.offes-h4{
+    font-size: 25px;
+    align-items: center;
+    margin-left: 75px;
+    cursor: pointer;
+}
+.offes-p{
+    cursor: pointer;
+    margin-left: 30px;
+    font-size: 12px;
+}
+.offes-img1{
+    margin-top: 40px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+.offes-h4-1{
+    margin-left: 40px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-1{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 35px;
+    text-align: center;
+    font-size: 11px;
+} 
+.offes-img2{
+    position: absolute;
+    margin-top: -157px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+.offes-h4-2{
+    margin-top: -105px;
+    margin-left: 210px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-2{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 11px;
+} 
+.offes-img3{
+    margin-top: 20px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+.offes-h4-3{
+    margin-left: 40px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-3{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 35px;
+    text-align: center;
+    font-size: 11px;
+}  
+.offes-img4{
+    position: absolute;
+    margin-top: -157px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+.offes-h4-4{
+    margin-top: -105px;
+    margin-left: 210px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.offes-p-4{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 195px;
+    text-align: center;
+    font-size: 11px;
+}
+}
+@media (max-width:490px){
+.offes-img{
+    margin-top:20px;
+    margin-left: 10px;
+    width: 435px;
+    height: 350px;
+}
+.what-we-offes-content{
+    width:370px;
+    height: 460px;
+    margin-top: 10px;
+    margin-left:50px;
+}
+.offes-h4{
+    font-size: 25px;
+    align-items: center;
+    margin-left: 65px;
+    cursor: pointer;
+}
+.offes-p{
+    cursor: pointer;
+    margin-left:15px;
+    font-size: 13px;
+}
+.offes-img1{
+    margin-top: 40px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.offes-h4-1{
+    margin-left: 20px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-1{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 15px;
+    text-align: center;
+    font-size: 11px;
+} 
+.offes-img2{
+    position: absolute;
+    margin-top: -157px;
+    margin-left: 230px;
+    cursor: pointer;
+}
+.offes-h4-2{
+    margin-top: -105px;
+    margin-left: 190px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-2{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 180px;
+    text-align: center;
+    font-size: 11px;
+} 
+.offes-img3{
+    margin-top: 20px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.offes-h4-3{
+    margin-left: 20px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-3{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 15px;
+    text-align: center;
+    font-size: 11px;
+}  
+.offes-img4{
+    position: absolute;
+    margin-top: -157px;
+    margin-left: 230px;
+    cursor: pointer;
+}
+.offes-h4-4{
+    margin-top: -105px;
+    margin-left: 190px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.offes-p-4{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 175px;
+    text-align: center;
+    font-size: 11px;
+}
+}
+@media (max-width:320px){
+.offes-img{
+    margin-top:20px;
+    margin-left: 10px;
+    width:280px;
+    height: 300px;
+}
+.what-we-offes-content{
+    width:320px;
+    height: 460px;
+    margin-top: 10px;
+    margin-left:10px;
+}
+.offes-h4{
+    font-size: 25px;
+    align-items: center;
+    margin-left: 35px;
+    cursor: pointer;
+}
+.offes-p{
+    width: 200px;
+    cursor: pointer;
+    margin-left:35px;
+    font-size: 15px;
+    text-align: center;
+}
+.offes-img1{
+    margin-top: 40px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+.offes-h4-1{
+    margin-left: 50px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.offes-p-1{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 55px;
+    text-align: center;
+    font-size: 13px;
+} 
+.offes-img2{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+.offes-h4-2{
+    margin-top: 105px;
+    margin-left: 55px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.offes-p-2{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 55px;
+    text-align: center;
+    font-size: 13px;
+} 
+.offes-img3{
+    margin-top: 47px;
+    margin-left:110px;
+    cursor: pointer;
+}
+.offes-h4-3{
+    margin-left: 55px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.offes-p-3{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 55px;
+    text-align: center;
+    font-size: 13px;
+}  
+.offes-img4{
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+.offes-h4-4{
+    margin-top: 100px;
+    margin-left: 55px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.offes-p-4{
+    width: 150px;
+    cursor: pointer;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 13px;
+}
+}

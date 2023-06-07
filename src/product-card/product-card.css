@@ -1,0 +1,131 @@
+.wheels{
+    cursor: pointer;
+    position: relative;
+    height: 365px;
+    width: 273px;
+    border: 3px solid #00000069;
+    background: #fff;
+
+}
+.wheels-img{
+    vertical-align: middle; 
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 60px;
+    left: 0;
+    opacity: 0;
+    transition: opacity .3s;
+  }
+.links{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.wheels:hover .overlay{
+    opacity: 1;
+}
+
+.wheels:hover{
+    border: 3px solid #f76d2b;
+}
+.wheels-title{
+    color: #343a40;
+    margin-left: 45px;
+}
+
+.wheels-p{
+    color: gray;
+    font-size: 12px;
+    margin-left: 90px;   
+}
+
+.wheels-img2{
+    cursor: pointer;
+    margin-top: -20px;
+    margin-left:100px;
+    width: 64px;
+}
+.wheels-p2{
+    text-decoration: line-through;
+    margin-top: -30px;
+    margin-left:60px;
+    color: gray;    
+    cursor: pointer;
+}
+.wheels-p3{
+    margin-top: -25px;
+    margin-left: 130px;
+
+}
+/* tabs icons1 */
+.wheels-icons{
+    margin-left: -50px;
+    background: #343a40; 
+    border-radius: 50%;
+    transition: 0.9s;
+}
+.wheels-icons:hover{
+    background: var(--background);
+}
+/* tabs icons2 */
+.wheels-icons2{
+    margin-top: 10px;
+    margin-left: 5px;
+    background: #343a40;
+    border-radius: 50%;
+    transition: 0.9s;    
+}
+.wheels-icons2:hover{
+    background: var(--background);
+}
+/* tabs icons3 */
+.wheels-icons3{
+    margin-top: 10px;
+    margin-left: 5px;
+    background: #343a40;
+    border-radius: 50%;
+    transition: 0.9s;        
+}
+.wheels-icons3:hover{
+    background: var(--background);
+}
+/* tabs icons4 */
+.wheels-icons4{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #343a40;
+    border-radius: 50%;
+    transition: 0.9s;    
+}
+.wheels-icons4:hover{
+    background: var(--background);
+}
+/*  */
+/*  */
+/*  */
+/* span tabs */
+.wheels-span{
+    margin-left: 12px;
+    margin-top: -340px;
+    color: var(--color-1);
+    padding-left: 10px;
+    width: 50px;
+    background: var(--background);
+    font-size: 13px;
+    position: absolute;
+}
+.wheels-span1{
+    margin-left: 205px;
+    margin-top: -340px;
+    color: var(--color-1);
+    padding-left: 10px;
+    width: 50px;
+    background: #30da30;
+    font-size: 13px;
+    position: absolute;
+}
